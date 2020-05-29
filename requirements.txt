@@ -1,0 +1,15 @@
+argparse==1.4
+bokeh==1.4.0
+flask==1.1.2
+matplotlib==3.2.1
+numpy==1.18.1
+opencv-python==4.2.0.34
+pandas==0.25.3
+pykml==0.2.0
+pyproj==2.6.0
+pytz==2019.3
+requests==2.23.0
+ruptures==1.0.3
+scikit-learn==0.22.2
+C:\Users\572784\Documents\RECON\Telework Support\Shapely-1.7.0-cp37-cp37m-win_amd64.whl
+selenium==3.141.0
