@@ -11,5 +11,5 @@ pytz==2019.3
 requests==2.23.0
 ruptures==1.0.3
 scikit-learn==0.22.2
-C:\Users\572784\Documents\RECON\Telework Support\Shapely-1.7.0-cp37-cp37m-win_amd64.whl
+path\to\Shapely-1.7.0-cp37-cp37m-win_amd64.whl
 selenium==3.141.0
