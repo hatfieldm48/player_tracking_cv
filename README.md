@@ -14,3 +14,5 @@ A repository for working on solutions that combine player tracking data with com
   * A helper python file for working with the json location information
 * requirements.txt
   * Required python files
+* ruptures_test.ipynb
+  * Jupyter notebook showing how the ruptures library is used to determine the play's hike and deadball timestamps, which is not provided in the json file.
